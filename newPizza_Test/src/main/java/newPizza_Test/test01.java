@@ -8,6 +8,14 @@ public class test01 {
 		// 커밋 -> 로컬 레포지토리에 실질적으로 변경사항을 저장 시키는 역할
 		System.out.println("두번째 커밋");
 		
+		
+		
+		
+		
+		
+		
+		
+		
 		System.out.println("세번째 커밋 , 조민규");
 		System.out.println("네번째 커밋 , 전현우");
 		
