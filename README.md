@@ -12,7 +12,7 @@
 
 # 3.개발환경
 - 사용언어 : HTML / CSS / JavaScript / C언어
-- 개발도구 : Eclipse / VSCode / Arduino / 
+- 개발도구 : Eclipse / VSCode / Arduino
 - 데이터베이스 : Oracle 11 / SQlite
 - 영상편집도구 : Adobe Premiere Pro
 - 협업도구 : Miro
