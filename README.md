@@ -34,6 +34,8 @@
 ![캡처](https://user-images.githubusercontent.com/101301726/162855753-d9e00ab3-b0da-438c-80fa-acba04558403.PNG)
 ![캡처](https://user-images.githubusercontent.com/101301726/162855813-5dfcfe16-b838-4211-82fd-b9a424817e20.PNG)
 ![캡처](https://user-images.githubusercontent.com/101301726/162855841-be235528-0c92-49d7-8f82-f2820e8d94e6.PNG)
+# 아두이노 DB 구축 및 웹 서버내 데이터 조회
+![SD카드](https://user-images.githubusercontent.com/98267764/162859598-40de9dfa-bcff-4cc8-8f0b-6abb1cdedf36.jpg)
 
 # 9. 명세서
 ![캡처](https://user-images.githubusercontent.com/101301726/162855984-897f7dac-1567-455a-9c69-b7960f77fb9d.PNG)
